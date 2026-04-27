@@ -1,0 +1,6 @@
+aiogram
+sqlalchemy
+asyncpg
+pydantic-settings
+python-dotenv
+groq
